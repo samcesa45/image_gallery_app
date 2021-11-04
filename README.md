@@ -1,4 +1,4 @@
-## `Demo ` [https://samcesa45.github.io/image_gallery_app/](https://samcesa45.github.io/image_gallery_app/)
+## `Demo ` (https://samcesa45.github.io/image_gallery_app/)
 
 ### `yarn start`
 
